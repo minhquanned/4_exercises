@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+a:link, a:visited {
+	margin: 5px;
+	margin-top: 15px;
+	border-radius: 10px;
+	background-color: #f44336;
+	color: white;
+	padding: 14px 25px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}

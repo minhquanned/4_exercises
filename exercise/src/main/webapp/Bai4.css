@@ -1,0 +1,38 @@
+@charset "ISO-8859-1";
+
+body {
+	font-family: Arial;
+}
+
+h1 {
+	margin: 0px;
+	padding: 30px;
+	background-color: #009788;
+	color: white;
+}
+
+div.board {
+	border: 2px solid #dddddd;
+}
+
+div.three_cards {
+	display: flex;
+}
+
+div.card {
+	margin: 20px;
+	display: inline-block;
+	width: calc(100% / 3);
+	height: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card h3 {
+	margin: 15px;
+	color: dimgrey;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
