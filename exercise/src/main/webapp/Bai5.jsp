@@ -22,10 +22,7 @@
     <form class="well form-horizontal" action=" " method="post"  id="contact_form">
 		<fieldset>
 		
-			<!-- Form Name -->
 			<legend><center><h2><b>Registration Form</b></h2></center></legend><br>
-			
-			<!-- Text input-->
 			
 			<div class="form-group">
 				<label class="col-md-4 control-label">First Name</label>  
@@ -37,8 +34,6 @@
 				</div>
 			</div>
 			
-			<!-- Text input-->
-			
 			<div class="form-group">
 				<label class="col-md-4 control-label" >Last Name</label> 
 			    <div class="col-md-4 inputGroupContainer">
@@ -49,15 +44,14 @@
 			  	</div>
 			</div>
 			
-			<!-- Text input-->
-			       <div class="form-group">
-			  <label class="col-md-4 control-label">E-Mail</label>  
+	       	<div class="form-group">
+			  	<label class="col-md-4 control-label">E-Mail</label>  
 			    <div class="col-md-4 inputGroupContainer">
-			    <div class="input-group">
-			        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-			  <input name="email" placeholder="E-Mail Address" class="form-control"  type="text">
-			    </div>
-			  </div>
+				    <div class="input-group">
+				        <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+				  		<input name="email" placeholder="E-Mail Address" class="form-control"  type="text">
+				    </div>
+			  	</div>
 			</div>
 			
 			<!-- Text input-->
@@ -67,7 +61,7 @@
 			    <div class="col-md-4 inputGroupContainer">
 			    <div class="input-group">
 			        <span class="input-group-addon"><i class="glyphicon glyphicon-earphone"></i></span>
-			  <input name="contact_no" placeholder="(845)555-1212" class="form-control" type="text">
+			  		<input name="contact_no" placeholder="(845)555-1212" class="form-control" type="text">
 			    </div>
 			  </div>
 			</div>
@@ -79,7 +73,7 @@
 			    <div class="col-md-4 inputGroupContainer">
 			    <div class="input-group">
 			        <span class="input-group-addon"><i class="glyphicon glyphicon-home"></i></span>
-			  <input name="contact_no" placeholder="Address" class="form-control" type="text">
+			  		<input name="contact_no" placeholder="Address" class="form-control" type="text">
 			    </div>
 			  </div>
 			</div>
@@ -91,7 +85,7 @@
 			    <div class="col-md-4 inputGroupContainer">
 			    <div class="input-group">
 			        <span class="input-group-addon"><i class="glyphicon glyphicon-home"></i></span>
-			  <input name="contact_no" placeholder="City" class="form-control" type="text">
+			  		<input name="contact_no" placeholder="City" class="form-control" type="text">
 			    </div>
 			  </div>
 			</div>
@@ -165,7 +159,7 @@
 			    <div class="col-md-4 inputGroupContainer">
 			    <div class="input-group">
 			        <span class="input-group-addon"><i class="glyphicon glyphicon-home"></i></span>
-			  <input name="contact_no" placeholder="Zip Code" class="form-control" type="text">
+			  		<input name="contact_no" placeholder="Zip Code" class="form-control" type="text">
 			    </div>
 			  </div>
 			</div>
