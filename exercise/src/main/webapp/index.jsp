@@ -14,6 +14,7 @@
 		<a href="Bai2.jsp">Bài 2</a><br>
 		<a href="Bai3.jsp">Bài 3</a><br>
 		<a href="Bai4.jsp">Bài 4</a><br>
+		<a href="Bai5.jsp">Bài 5</a><br>
 	</div>
 		
 </body>

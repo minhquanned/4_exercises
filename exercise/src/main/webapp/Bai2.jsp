@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Bài 3</title>
+<title>Bài 2</title>
 <link rel="stylesheet" href="Bai2.css">
 <link rel="stylesheet" href="button.css">
 </head>

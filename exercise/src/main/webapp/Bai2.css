@@ -16,9 +16,15 @@ body {
 header {
 	background-color: lightcoral;
 	padding: 2px;
+	padding-left: 15px;
+}
+
+p {
+	padding-left: 15px;
 }
 
 footer {
 	background-color: lightcoral;
 	padding: 2px;
+	padding-left: 15px;
 }

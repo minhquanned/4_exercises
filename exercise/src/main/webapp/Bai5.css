@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+label.font-weight-normal {
+	font-weight: 100;
+}
+
+.control-label-custom {
+	padding-top: 0;
+	margin-bottom: 0;
+	text-align: right;
+}
+
+.padding_7 {
+	padding-top: 7px;
+}
